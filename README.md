@@ -1,10 +1,10 @@
 # Machine Learning and Statistics Course Repository
 
-Welcome to the repository for the Machine Learning and Statistics Course! This repository contains materials related to the course, including assessments and the final project.
+Welcome to my repository! This repository contains materials related to the Machine Learning and Statistics Course offered at Atlantic Technical University during the Winter 22/23 Semester. It includes all the assessments and the final project.
 
 ## Contents
 
-This repository contains materials related to the Machine Learning and Statistics Course, including assessments and the final project. The following is a brief overview of the contents of this repository:
+The following is a brief overview of the contents of this repository:
 
 * **Assessments:** This folder contains materials related to the various assessments completed during the course.
     - Topic 1 - Statistics
