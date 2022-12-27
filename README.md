@@ -10,6 +10,8 @@ This repository contains materials related to the Machine Learning and Statistic
     - Topic 1 - Statistics
     - Topic 2 - Models
     - Topic 3 - Parameters
+    - Topic 4 - Machine Learning
+    - Topic 5 - Time Series anomaly detection example
 
 * **Project:** This folder contains the final project for the course, which involved the application of machine learning and statistical techniques to a real-world problem.
 
