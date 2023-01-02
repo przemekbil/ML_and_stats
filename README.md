@@ -7,11 +7,11 @@ Welcome to my repository! This repository contains materials related to the Mach
 The following is a brief overview of the contents of this repository:
 
 * **Assessments:** This folder contains materials related to the various assessments completed during the course.
-    - Topic 1 - Statistics
-    - Topic 2 - Models
-    - Topic 3 - Parameters
-    - Topic 4 - Machine Learning
-    - Topic 5 - Time Series anomaly detection example
+    - *Topic 1 - Statistics* - statistical hypothesis testing
+    - *Topic 2 - Models*
+    - *Topic 3 - Parameters*
+    - *Topic 4 - Machine Learning*
+    - *Topic 5 - Time Series anomaly detection example*
 
 * **Project:** This folder contains the final project for the course, which involved the application of machine learning and statistical techniques to a real-world problem.
 
